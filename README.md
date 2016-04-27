@@ -1,2 +1,2 @@
 # Scripts-auto-install-Mysql
-Cài đặt Mysql, configure bằng scipts
+Cài đặt Mysql, MariaDB, Percona  bằng scipts
